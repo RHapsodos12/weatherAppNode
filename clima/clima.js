@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const appId = 'b2f3903a1745b6394af62fb1b361a5bc';
+const appId = 'Your API KEY here';
 
 const getClima = async ( direccion ) => {
 
